@@ -17,4 +17,3 @@
         {"id":15,"img":"assets/images/15.png","name":"Frapuccino amendoim", "price": 2.15,"description":"Combinação de café, creme, caramelo, leite e gelo triturado.","stock":true}
         ]
 }
-//run database npx json-server --watch db.json --port 3000
